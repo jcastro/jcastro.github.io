@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.391304348" opacity="0.8">
+        <g id="cloudcast" transform="translate(-196.000000, -72.000000)" fill="#000000">
+            <g id="nav-bar" transform="translate(0.000000, 40.000000)">
+                <path d="M205,32 L212,32 L203,64 L196,64 L205,32 Z M221,32 L228,32 L222,54 L215,54 L221,32 Z M237,32 L244,32 L235,64 L228,64 L237,32 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
