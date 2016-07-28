@@ -33,6 +33,10 @@
   background: #F2FFF7;
 }
 
+.bg-light-purple-misc {
+  background: #FEF6FF;
+}
+
 /*
   For project header custom BG colours add classes here like so:
   .bg--light-blue {
