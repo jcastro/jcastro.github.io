@@ -41,7 +41,12 @@
 
     <!-- (CHANGE) iPhone + screenshot module -->
     <div class="text--center  padding--top-four-spaces  position--relative">
-      <img src="images/cloudcast/cloudcast-header.png" srcset="images/cloudcast/cloudcast-header@2x.png 2x" class="iphone__screenshot" alt="boarding-pass" />
+      <!--img src="images/cloudcast/cloudcast-header.png" srcset="images/cloudcast/cloudcast-header@2x.png 2x" class="iphone__screenshot" alt="boarding-pass" /-->
+      <video class="iphone__screenshot" width="354" height="630" preload autoplay loop poster="images/cloudcast/cloudcast-header@2x.png">
+        <!-- <source src="images/cloudcast/midtone-f-1-cloudcastproto.mov" /> -->
+        <source src="images/cloudcast/cloudcastvideo.mp4" />
+        <!-- <source src="images/cloudcast/cloudcastvideo.webm" /> -->
+      </video>
       <img src="images/iphone.svg" class="iphone__container" alt="iphone" />
     </div>
 
