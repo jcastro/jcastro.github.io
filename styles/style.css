@@ -254,10 +254,10 @@ nav a.current {
   position: absolute;
   top: 190px;
   left: 50%;
-  margin-left: -176px;
+  margin-left: -177px;
   border: solid 2px #000;
   z-index: 1;
-  height: 628px;
+  height: 629px;
 }
 .iphone__container {
   position: absolute;
@@ -327,7 +327,7 @@ nav a.current {
   position: absolute;
   top: 50px;
   width: 100%;
-  margin-left: 26px;
+  margin-left: 28px;
 }
 .swiper-button-prev, .swiper-button-next {
   width: 50% !important;
